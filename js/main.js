@@ -1,6 +1,7 @@
 "use strict";
-
+/*Test to see if this is workign*/
 $(document).ready(function () {alert("hi!");})
+
 const search_term = $('search_q')[0].id;
 const search_btn = $('search_btn')[0].id;
 
